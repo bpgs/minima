@@ -78,3 +78,5 @@ Steht im `<body>`-Bereich unten.
 ## Die Navigation
 
 Die Navigation wird durch header.html bereit gestellt. Zum Test wurde die .md-Datei `meine-seite.md` auf Basis der Datei `about.md` erstellt.
+
+Das hat funktioniert. Nun werden noch weitere Seiten erstellt, um zu sehen, wie viele derartige Seiten in die Navigation passen.
