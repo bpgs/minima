@@ -74,3 +74,7 @@ Steht im `<body>`-Bereich ganz oben.
 ### social.html
 
 Steht im `<body>`-Bereich unten.
+
+## Die Navigation
+
+Die Navigation wird durch header.html bereit gestellt. Zum Test wurde die .md-Datei `meine-seite.md` auf Basis der Datei `about.md` erstellt.
