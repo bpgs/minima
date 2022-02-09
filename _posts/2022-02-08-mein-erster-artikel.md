@@ -15,7 +15,7 @@ Ich habe in den Dateien
 * page.html
 * post.html
 
-Jeweils Kommentare eingefügt, die nun auch sichtbar sind.
+jeweils Kommentare eingefügt, die nun auch sichtbar sind.
 
 ### default.html
 
@@ -33,4 +33,44 @@ Kommt bei den einzelnen Seiten zur Anwendung
 
 Kommt bei den einzelnen Blogbeiträgen zur Anwendung
 
+## Die Includedateien
 
+Ich habe in den Dateien
+
+* custom-head.html
+* disqus_comments.html
+* footer.html
+* google-analytics.html
+* head.html
+* header.html
+* social.html
+
+jeweils Kommentare eingefügt, die nun auch (zumeist) sichtbar sind.
+
+### custom-head.html
+
+Erscheint nicht!
+
+### disqus_comments.html
+
+Erscheint nicht!
+
+### footer.html
+
+Steht im `<body>`-Bereich unten.
+
+### google-analytics.html
+
+Erscheint nicht!
+
+### head.html
+
+Steht im `<head>`-Bereich.
+
+### header.html
+
+Steht im `<body>`-Bereich ganz oben.
+
+### social.html
+
+Steht im `<body>`-Bereich unten.
